@@ -1,0 +1,61 @@
+{
+   "first name":"Vitali",
+   "lastname":"Natsevich",
+   "aducation":[
+      {
+         "name":"BIP",
+         "gradution Year":2016,
+         "specialization":"right"
+      },
+      {
+         "name":"BNTU",
+         "gradution Year":2008,
+         "specialization":"photo"
+      }
+   ],
+   "location":"Minsk",
+   "hobbies":[
+      "fishing",
+      "photo",
+      "travel"
+   ],
+   "softskills":[
+      "communication",
+      "learn fast"
+   ],
+   "hardskills":[
+      {
+         "name":"SQL",
+         "level":"lower"
+      },
+      {
+         "name":"html",
+         "level":"lower"
+      },
+      {
+         "name":"test design and the basics of test design",
+         "level":"lower"
+      },
+      {
+         "name":"requirements analysis and documentation testing",
+         "level":"lower"
+      },
+      {
+         "name":"basic knowledge of dev tools",
+         "level":"lower"
+      },
+      {
+         "name":"bug fixing",
+         "level":"lower"
+      },
+      {
+         "name":"terminology in testing and basic software life cycles",
+         "level":"lower"
+      }
+   ],
+   "contacts":{
+      "phone number":295514940,
+      "instagram":"Vitalinatsevich"
+   },
+   "place of work":"Vilia 2008 and up to the present time"
+}
